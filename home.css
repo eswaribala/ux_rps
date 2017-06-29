@@ -1,0 +1,54 @@
+.secstyle
+{
+   width:60%;
+    margin-left: 20%;
+
+}
+
+.articlestyle
+{
+    width:40%;
+    margin-left: 5%;
+
+}
+
+
+.fldstyle
+{
+    width:30%;
+    margin-left: 45%;
+}
+
+h1
+{
+    font-size: x-large;
+    font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
+}
+legend
+{
+    text-align: center;
+
+}
+form
+{
+    margin-left: 15%;
+}
+input
+{
+    margin-left: 15%;
+    margin-bottom: 3%;
+    width:80%;
+}
+
+input[type="submit"]
+{
+    width:40%;
+    margin-left: 35%;
+    background-color: blue;
+    color:white;
+}
+nav
+{
+    margin-top: 3%;
+    margin-left: 55%;
+}
